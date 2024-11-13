@@ -64,7 +64,7 @@ body {
 .faqs .text {
   font-weight: normal;
   font-size: 1.6rem;
-  margin-bottom: 4rem;
+  margin-bottom: 2rem;
   color: var(--font-color);
 }
 .question {
@@ -76,7 +76,7 @@ body {
 }
 .question h4 {
   font-size: 1.8rem;
-  /* border: 2px solid black; */
+    /* border: 2px solid black; */
   font-weight: 500;
 }
 .question:last-of-type {
